@@ -390,6 +390,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ---
 
 
-You can find the GitHub repository for this project **[here](https://github.com/<your-username>/HospitalOpdQueueSystem)**.
+You can find the GitHub repository for this project **[here](https://github.com/curiousfalak/HospitalOpdQueueSys)**.
 
 Feel free to reach out if you have any questions or need any help!
